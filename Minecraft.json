@@ -1,15 +1,25 @@
 {
   "spec": 1,
   "name": "Minecraft",
-  "previewText": "Minecraft font.",
+  "previewText": "Minecraft font for Enmity/Vendetta.",
   "main": {
-    "ggsans-Normal": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
     "ggsans-Bold": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
-    "ggsans-Medium": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
-    "ggsans-Semibold": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
+    "ggsans-BoldItalic": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
     "ggsans-ExtraBold": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
-    "NotoSans-Normal": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
+    "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
+    "ggsans-MediumItalic": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
+    "ggsans-Normal": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
+    "ggsans-NormalItalic": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
+    "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
     "NotoSans-Bold": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
+    "NotoSans-ExtraBold": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
+    "NotoSans-Medium": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
+    "NotoSans-Normal": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
+    "NotoSans-NormalItalic": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
+    "NotoSans-Semibold": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf",
     "SourceCodePro-Semibold": "https://raw.githubusercontent.com/itzmnyzzzXD/Mcfont/main/Minecraft.ttf"
   }
 }
